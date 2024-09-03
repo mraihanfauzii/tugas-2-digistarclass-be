@@ -113,14 +113,14 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:3000/pokemon/1",
+					"raw": "localhost:3000/pokemon/",
 					"host": [
 						"localhost"
 					],
 					"port": "3000",
 					"path": [
 						"pokemon",
-						"1"
+						""
 					]
 				}
 			},
